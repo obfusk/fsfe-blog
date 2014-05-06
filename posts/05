@@ -1,0 +1,11 @@
+title:    Presentation about Vagrant + Ansible
+category: english
+tags:     ansible, development, linux, nijmegen, ruby, test, vagrant, vm
+
+<a href="http://www.linuxnijmegen.nl/bijeenkomsten/34-lugn19-dinsdag-11-maart-2014">Tuesday 11 March @ Linux Nijmegen</a>.
+
+I'll demonstrate how to use <a href="https://en.wikipedia.org/wiki/Vagrant_(software)">vagrant</a> and <a href="https://en.wikipedia.org/wiki/Ansible_(software)">ansible</a> to easily create and configure virtual test and development environments.
+
+See also my <a href="https://github.com/obfusk/dev-vm-ruby/tree/ansible">ruby development VM</a>.
+
+- Felix

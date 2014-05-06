@@ -1,0 +1,15 @@
+title:    VM voor aangifte inkomstenbelasting 2013
+category: dutch
+tags:     aangifte, belasting, freesoftware, ubuntu, vm
+
+Voor diegenen die het "aangifte inkomstenbelasting 2013" programma moeten (of willen) gebruiken -- maar het niet zo maar op hun eigen computer willen draaien (aangezien het niet-vrije software is) -- heb ik een verzameling scripts gemaakt die een (Ubuntu) Virtuele Machine maken en starten zodat het programma geïsoleerd van de rest van de computer uitgevoerd kan worden.
+
+<strong>NB</strong>: de scripts maken gebruik van vagrant, dat <strong>erg onveilige</strong> standaardinstellingen heeft.  Ik heb mijn best gedaan het zo veilig mogelijk te maken, maar dat lukt niet 100%.  Zie de <strong>waarschuwing</strong> in de README.
+
+Als je een firewall gebruikt zodat ook open poorten niet bereikbaar zijn (of je hele netwerk vertrouwd) en niets te vrezen hebt van andere gebruikers op dezelfde computer, zou het redelijk veilig moeten zijn -- maar ik kan niets garanderen.  Dus moet je eigenlijk genoeg kennis van zaken hebben om de veiligheid zelf te kunnen controleren.
+
+&rarr; <a href="https://github.com/obfusk/ib2013vm">ib2013vm</a>
+
+Diegenen die gewoon een .deb pakket willen hebben, kunnen terecht bij <a href="http://quietlife.nl/belastingdienst.php">Kevin Keijzer</a>.
+
+- Felix

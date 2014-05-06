@@ -1,0 +1,56 @@
+theme: Twenty Eleven 1.3
+
+widgets:
+  main sidebar:
+    recent posts:
+    text:
+      <a href="http://www.wepromise.eu"><img src="/flx/files/2014/02/banner2.png" alt="wepromise.eu" /></a>
+    text:
+      <a href="https://fsfe.org/fellowship"><img src="https://fsfe.org/graphics/fellowship/fellowship-page-logo.svg" alt="Fellowship of Free Software Foundation Europe" /></a>
+      <a href="https://www.fsfe.org/freesoftware/freesoftware.html"><img src="https://www.fsfe.org/contribute/advocacy/cwfs/cwfs-1.0.0-original-0-degree-88x28.png" width="88" height="28" border="0" alt="Created with free software"></a> <a href="https://fsfe.org/support/?flx"><img src="https://fsfe.org/graphics/supporter/FSFE_plus1_48x22_b.png" alt="Become supporter of FSFE"></a> <a href="http://ilovefs.org"><img src="https://fsfe.org/campaigns/ilovefs/artwork/graphics/ilovefs-button-small-en.png" style="border: 0 !important" alt="I love Free Software!" /></a>
+  showcase sidebar:
+    text:
+      <a href="https://fsfe.org/fellowship"><img src="https://fsfe.org/graphics/fellowship/fellowship-page-logo.svg" alt="Fellowship of Free Software Foundation Europe" /></a>
+      <a href="https://www.fsfe.org/freesoftware/freesoftware.html"><img src="https://www.fsfe.org/contribute/advocacy/cwfs/cwfs-1.0.0-original-0-degree-88x28.png" width="88" height="28" border="0" alt="Created with free software"></a> <a href="https://fsfe.org/support/?flx"><img src="https://fsfe.org/graphics/supporter/FSFE_plus1_48x22_b.png" alt="Become supporter of FSFE"></a> <a href="http://ilovefs.org"><img src="https://fsfe.org/campaigns/ilovefs/artwork/graphics/ilovefs-button-small-en.png" style="border: 0 !important" alt="I love Free Software!" /></a>
+  footer area one:
+    tag cloud:
+  footer area two:
+    categories:
+    archives:
+    text:
+      <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a> &copy; Felix C. Stegerman
+  footer area three:
+    text:
+      <a href="http://www.wepromise.eu"><img src="/flx/files/2014/02/banner2.png" alt="wepromise.eu" /></a>
+    text:
+      <a href="https://fsfe.org/fellowship"><img src="https://fsfe.org/graphics/fellowship/fellowship-page-logo.svg" alt="Fellowship of Free Software Foundation Europe" /></a>
+      <a href="https://www.fsfe.org/freesoftware/freesoftware.html"><img src="https://www.fsfe.org/contribute/advocacy/cwfs/cwfs-1.0.0-original-0-degree-88x28.png" width="88" height="28" border="0" alt="Created with free software"></a> <a href="https://fsfe.org/support/?flx"><img src="https://fsfe.org/graphics/supporter/FSFE_plus1_48x22_b.png" alt="Become supporter of FSFE"></a> <a href="http://ilovefs.org"><img src="https://fsfe.org/campaigns/ilovefs/artwork/graphics/ilovefs-button-small-en.png" style="border: 0 !important" alt="I love Free Software!" /></a>
+
+menu:
+- Home
+- Posts
+- English
+- Dutch
+- FSFE Netherlands:
+    https://wiki.fsfe.org/groups/BNL
+- Meetings:
+    https://wiki.fsfe.org/Meeting%20places#city:_Nijmegen.2C_Netherlands
+
+background: left, tile, fixed
+
+plugins:
+- Spam Karma 2
+
+title:    /var/log/fsfe/flx
+tagline:  furthering Free Software => ¬sleeping
+email:    flx@fsfe.org
+timezone: UTC+1
+date:     Y-m-d
+time:     22:12
+week:     monday
+
+reading:
+  frontpage:
+    static:
+      frontpage:  frontpage
+      posts:      posts
