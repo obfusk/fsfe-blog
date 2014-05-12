@@ -44,9 +44,9 @@ plugins:
 - Spam Karma 2
 
 title:    /var/log/fsfe/flx
-tagline:  furthering Free Software => ¬sleeping
+tagline:  furthering Software Freedom => ¬sleeping
 email:    flx@fsfe.org
-timezone: UTC+1
+timezone: Amsterdam
 date:     Y-m-d
 time:     22:12
 week:     monday
